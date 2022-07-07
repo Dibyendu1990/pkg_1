@@ -16,5 +16,6 @@
         "psr-4":{
             "Mike99\\":"src"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
